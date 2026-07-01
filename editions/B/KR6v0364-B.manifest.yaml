@@ -1,0 +1,158 @@
+canonical_identifier: bkk:krp/KR6v0364/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0364/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩提道次第略論
+  identifiers:
+    krp: KR6v0364
+    cbeta: B10n0065
+    cbeta_old_id: B10n0065
+    authorityid: CA0006149
+    json_key: B0065
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0065.xml
+    old_id: B10n0065
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0364_000-B.yaml, hash: 'sha256:e33d7535e8d9bd6841c3115812209283b03d9080be6ccd44c5e8afc3d941bd16'}
+  - {seq: 1, filename: KR6v0364_001-B.yaml, hash: 'sha256:fbc90a2356d6d9edc7ddc38dd4d3b9c9e184431f8a00813729170895d71c4f11'}
+  - {seq: 2, filename: KR6v0364_002-B.yaml, hash: 'sha256:300f26bce8b93c09af7aab9fad8334938ae9465e9d9e882c3005ec559da42dab'}
+  - {seq: 3, filename: KR6v0364_003-B.yaml, hash: 'sha256:d86a6852f2a9ab83960a23fcc192f17ede4afa2e15d043bc496f05ab405f8e82'}
+  - {seq: 4, filename: KR6v0364_004-B.yaml, hash: 'sha256:89520db66176e800345843c09120dccb9519975620c3c8782200d1900fc6409c'}
+  - {seq: 5, filename: KR6v0364_005-B.yaml, hash: 'sha256:d4db093bf2cfaf093a9aecbda418994f5fcbd4b27c39ea59e247f4fc9748c8ac'}
+  - {seq: 6, filename: KR6v0364_006-B.yaml, hash: 'sha256:5238329b8cf6b52e0441fc7142d255df100dfa0852d114a0c83c1db85aebf732'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0364_000-B.markers.yaml, hash: 'sha256:4ebd70610a22aaea124af73a0a4d532fbb58c055d4e09efded4bbf41eccbb688'}
+  - {seq: 1, role: markers, filename: assets/KR6v0364_001-B.markers.yaml, hash: 'sha256:4214541a7f11974076932bb44397a3948dbcc8a8f75ef63621a91550d8296961'}
+  - {seq: 2, role: markers, filename: assets/KR6v0364_002-B.markers.yaml, hash: 'sha256:d6301e312f3a71892976ac8cf8095e18ad52155cba2f1b30a844904af560d6bc'}
+  - {seq: 3, role: markers, filename: assets/KR6v0364_003-B.markers.yaml, hash: 'sha256:257566562dd7459e32459bc1264d883b1c1123133d283abb42a696465d24acc2'}
+  - {seq: 4, role: markers, filename: assets/KR6v0364_004-B.markers.yaml, hash: 'sha256:f680a570efe52b9ec8e2ef0a768623fc7a4b23edc6cdd73d4fd3e5f130dce20e'}
+  - {seq: 5, role: markers, filename: assets/KR6v0364_005-B.markers.yaml, hash: 'sha256:bc4e63fe27f9aee2e0d46215cccb862ac0ae9002e2933b5d3ebee3dca8402192'}
+  - {seq: 6, role: markers, filename: assets/KR6v0364_006-B.markers.yaml, hash: 'sha256:1f3a228726feaefbfc93c7da84c2b3212df5db52c997644b5291053ae51cb5fa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0364_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 譯序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0364_B_000-mulu-2
+    span:
+    - front
+    - 3180
+    - 3180
+  label: 科目
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0364_B_000-mulu-3
+    span:
+    - front
+    - 7862
+    - 7862
+  label: 道前加行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0364_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 16342
+  label: 菩提道次第畧論卷一道前加行
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0364_B_001-mulu-1
+    span:
+    - body
+    - 16342
+    - 16342
+  label: 共下士道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0364_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 16372
+  label: 菩提道次第畧論卷二共下士道
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0364_B_002-mulu-1
+    span:
+    - body
+    - 16372
+    - 16372
+  label: 共中士道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0364_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 7866
+  label: 菩提道次第畧論卷三共中士道
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0364_B_003-mulu-1
+    span:
+    - body
+    - 7866
+    - 7866
+  label: 共上士道
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0364_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 21156
+  label: 菩提道次第畧論卷四共上士道
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0364_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 14907
+  label: 菩提道次第畧論卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0364_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 23544
+  label: 菩提道次第畧論卷六
+  type: juan
+  level: 1
+hash: sha256:e4ee3ee39e716658595add19fac0b84293575332792c216712b49bbc61cdd351
