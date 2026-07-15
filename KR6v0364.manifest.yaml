@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0364/v1
 canonical_location: https://kanripo.org/bkk/KR6v0364/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 菩提道次第略論
   source:
@@ -18,21 +18,21 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0364_000.yaml, hash: 'sha256:e33d7535e8d9bd6841c3115812209283b03d9080be6ccd44c5e8afc3d941bd16'}
-  - {seq: 1, filename: KR6v0364_001.yaml, hash: 'sha256:fbc90a2356d6d9edc7ddc38dd4d3b9c9e184431f8a00813729170895d71c4f11'}
-  - {seq: 2, filename: KR6v0364_002.yaml, hash: 'sha256:300f26bce8b93c09af7aab9fad8334938ae9465e9d9e882c3005ec559da42dab'}
-  - {seq: 3, filename: KR6v0364_003.yaml, hash: 'sha256:d86a6852f2a9ab83960a23fcc192f17ede4afa2e15d043bc496f05ab405f8e82'}
-  - {seq: 4, filename: KR6v0364_004.yaml, hash: 'sha256:89520db66176e800345843c09120dccb9519975620c3c8782200d1900fc6409c'}
-  - {seq: 5, filename: KR6v0364_005.yaml, hash: 'sha256:d4db093bf2cfaf093a9aecbda418994f5fcbd4b27c39ea59e247f4fc9748c8ac'}
-  - {seq: 6, filename: KR6v0364_006.yaml, hash: 'sha256:5238329b8cf6b52e0441fc7142d255df100dfa0852d114a0c83c1db85aebf732'}
+  - {seq: 0, filename: KR6v0364_000.yaml, hash: 'sha256:0e8f5256275a2423ca79dee34c083f9df3b32579880b4d3cd5cf58c0b4b8c10e'}
+  - {seq: 1, filename: KR6v0364_001.yaml, hash: 'sha256:b93e107025676d09b0e1e0cefa39969d603238ac7362aead700d5f140d9befbf'}
+  - {seq: 2, filename: KR6v0364_002.yaml, hash: 'sha256:9ffa9e85a803d5a50e21c5ea1b3db9f9675dccc5a0009f3a2b4569c4c952284e'}
+  - {seq: 3, filename: KR6v0364_003.yaml, hash: 'sha256:45e1e0722d68cb886c70a092d614563ad5919c63c97e9fe3d4cc222e16bef05f'}
+  - {seq: 4, filename: KR6v0364_004.yaml, hash: 'sha256:6e724deb92022689f22abb981479b0d88ad994caabbb9090048571fb93816aa6'}
+  - {seq: 5, filename: KR6v0364_005.yaml, hash: 'sha256:5ca51fe738b299a0b3fd45cb6fa0c15a8342a5f2757e67f962deeab34a795d1a'}
+  - {seq: 6, filename: KR6v0364_006.yaml, hash: 'sha256:bf944dbbc4c3a48bd23c256e422134f6469c717dfd389c76c2ef30f37eb212c7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0364_000.markers.yaml, hash: 'sha256:b9d35589bae5cb44d00eb7965419c979cb56024a0df31af117dbd01c1c14136f'}
-  - {seq: 1, role: markers, filename: assets/KR6v0364_001.markers.yaml, hash: 'sha256:0bee47831fc0feef05d72c05805da9328575a558a72b3f6d7f5fb8e96e11e0a8'}
-  - {seq: 2, role: markers, filename: assets/KR6v0364_002.markers.yaml, hash: 'sha256:40f91c51db642749f2b92b152a4d383447288986444a77bddc4745513f60f0f7'}
-  - {seq: 3, role: markers, filename: assets/KR6v0364_003.markers.yaml, hash: 'sha256:57dd9a13af49a396c533e0636648296d9149394c479ef8d5847ce869f5f8e1e9'}
-  - {seq: 4, role: markers, filename: assets/KR6v0364_004.markers.yaml, hash: 'sha256:d0bdf6e3446069f570e95428f2eae8096b8c636b283d1513de54d1369294d8ba'}
-  - {seq: 5, role: markers, filename: assets/KR6v0364_005.markers.yaml, hash: 'sha256:8dfd2d56c346097fae7969c9f56b29532d93724926a771f43036a52334a77d96'}
-  - {seq: 6, role: markers, filename: assets/KR6v0364_006.markers.yaml, hash: 'sha256:7628b1374bc9aebaa1780020556a6ac9168c046a8f8e6250a2699eb586e6915a'}
+  - {seq: 0, role: markers, filename: assets/KR6v0364_000.markers.yaml, hash: 'sha256:432eddb450ccabe1a1a6cf1bfb7fb737c466dcd3664c6b2cffae9397eef8f61d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0364_001.markers.yaml, hash: 'sha256:4864c4acb1933abd69255632b140c0cd8ca0132a86f7c46e3edcf2f475af826a'}
+  - {seq: 2, role: markers, filename: assets/KR6v0364_002.markers.yaml, hash: 'sha256:51b6bd071a2700a642706cc62de476a5c47d1505aa26a6eabc0104eca4acb4e4'}
+  - {seq: 3, role: markers, filename: assets/KR6v0364_003.markers.yaml, hash: 'sha256:bf0b0137bacba5a8ec85cc47ebff86986c2f0f50cc32c11c2e81e3d33cab90aa'}
+  - {seq: 4, role: markers, filename: assets/KR6v0364_004.markers.yaml, hash: 'sha256:0a23c61518851ac96f36d39cfdd0e2fd73cf395fa9a58909f8b9ecd91be78d57'}
+  - {seq: 5, role: markers, filename: assets/KR6v0364_005.markers.yaml, hash: 'sha256:292a9e94e0e572aa257469e3b39ad20ec9ff3d0cd870d3a8b0c0bc693486e78b'}
+  - {seq: 6, role: markers, filename: assets/KR6v0364_006.markers.yaml, hash: 'sha256:c7ac9c551f4d0eac2d0c84be7230617e28a1fc5933b347fbab5f7d51d71d6789'}
 table_of_contents:
 - ref:
     seq: 0
@@ -154,4 +154,7 @@ table_of_contents:
   label: 菩提道次第畧論卷六
   type: juan
   level: 1
-hash: sha256:c16c9d622926914310112bf20674aa10b5dad9b5c29a1ae1f258c748b3a00d06
+hash: sha256:9f3fbc8be373ffae9e09d0cc30ed1c113a6e2983a0c81b4740e9579d4fb6ae70
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
