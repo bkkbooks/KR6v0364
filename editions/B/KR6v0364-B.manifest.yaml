@@ -19,7 +19,7 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0364_000-B.yaml, hash: 'sha256:e33d7535e8d9bd6841c3115812209283b03d9080be6ccd44c5e8afc3d941bd16'}
+  - {seq: 0, filename: KR6v0364_000-B.yaml, hash: 'sha256:0fae632a720ba481a44ae18e6d25afcee4f81f3319e91e973d97215e8102ba18'}
   - {seq: 1, filename: KR6v0364_001-B.yaml, hash: 'sha256:fbc90a2356d6d9edc7ddc38dd4d3b9c9e184431f8a00813729170895d71c4f11'}
   - {seq: 2, filename: KR6v0364_002-B.yaml, hash: 'sha256:300f26bce8b93c09af7aab9fad8334938ae9465e9d9e882c3005ec559da42dab'}
   - {seq: 3, filename: KR6v0364_003-B.yaml, hash: 'sha256:d86a6852f2a9ab83960a23fcc192f17ede4afa2e15d043bc496f05ab405f8e82'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6v0364_005-B.yaml, hash: 'sha256:d4db093bf2cfaf093a9aecbda418994f5fcbd4b27c39ea59e247f4fc9748c8ac'}
   - {seq: 6, filename: KR6v0364_006-B.yaml, hash: 'sha256:5238329b8cf6b52e0441fc7142d255df100dfa0852d114a0c83c1db85aebf732'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0364_000-B.markers.yaml, hash: 'sha256:4ebd70610a22aaea124af73a0a4d532fbb58c055d4e09efded4bbf41eccbb688'}
+  - {seq: 0, role: markers, filename: assets/KR6v0364_000-B.markers.yaml, hash: 'sha256:003348a673bcb6a4a29bb1a298ac6d9701a59d79ee9ad90549fdf763cb7d82a5'}
   - {seq: 1, role: markers, filename: assets/KR6v0364_001-B.markers.yaml, hash: 'sha256:4214541a7f11974076932bb44397a3948dbcc8a8f75ef63621a91550d8296961'}
   - {seq: 2, role: markers, filename: assets/KR6v0364_002-B.markers.yaml, hash: 'sha256:d6301e312f3a71892976ac8cf8095e18ad52155cba2f1b30a844904af560d6bc'}
   - {seq: 3, role: markers, filename: assets/KR6v0364_003-B.markers.yaml, hash: 'sha256:257566562dd7459e32459bc1264d883b1c1123133d283abb42a696465d24acc2'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0364_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 譯序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0364_B_000-mulu-2
     span:
-    - front
+    - body
     - 3180
     - 3180
   label: 科目
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0364_B_000-mulu-3
     span:
-    - front
+    - body
     - 7862
     - 7862
   label: 道前加行
@@ -155,4 +155,4 @@ table_of_contents:
   label: 菩提道次第畧論卷六
   type: juan
   level: 1
-hash: sha256:e4ee3ee39e716658595add19fac0b84293575332792c216712b49bbc61cdd351
+hash: sha256:4041082a349b7df849d584bc4ed0e21954f5f9c49fe021cda63ca51cebbf77a3
